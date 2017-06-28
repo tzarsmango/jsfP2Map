@@ -1,11 +1,5 @@
-I have first used JSF when JSF 1.2 was hitting the road. At those times "Gavin" was the "King" and "JBoss Seam" 
-was getting ready for setting the rules of the next Java EE specifications. 
-As an enhanced JSF implementation RichFaces was rather mature, but as Ajax was getting more and more popular, 
-RichFaces had to go through fast cycle of deliveries to keep up with jQuery based libraries fast approaching. 
-This fast release cycle, which I must admit caused many problems back then. 
-After so many years I felt it's time to pay a tribute to my old friend JSF (which actually caused lots of pain) 
+I felt it's time to pay a tribute to my old friend JSF (which actually caused lots of pain) 
 and see how I can play with it and may be add some flavour from current technologies down the road.
-
 
 # The application
 I wanted the application to be simple and somewhat useful. In one of my previous project we implemented an 
