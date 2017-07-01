@@ -47,7 +47,7 @@ public class PostcodeBean implements Serializable {
             mapBean.resetToInitial();
         } else {
 
-            //Old school way of doing it
+//        Old school way of doing it
 //        String result = "";
 //        MongoClient mongo = new MongoClient( "localhost" , 27017 );
 //        DB db = mongo.getDB("postcodes");
