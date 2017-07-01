@@ -10,7 +10,6 @@ import org.mongodb.morphia.Datastore;
 import org.mongodb.morphia.Morphia;
 import org.primefaces.model.map.LatLng;
 
-
 import static org.assertj.core.api.Assertions.assertThat;
 
 /**
