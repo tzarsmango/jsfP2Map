@@ -1,3 +1,6 @@
+This repository contains the source code for an article posted in [koders.co](http://www.koders.co/programming/a-tribute-to-jsf-postcode-to-map/)
+
+
 I felt it's time to pay a tribute to my old friend JSF (which actually caused lots of pain) 
 and see how I can play with it and may be add some flavour from current technologies down the road.
 
@@ -251,5 +254,7 @@ And used it in my action call replacing all the previous MongoDB calls:
 			resultMessage = "Map refreshed to " + searchText;
 		}
 ```
-The source code and the final look and feel of this project can be found on my github page.
+The source code can be found on [my github page](https://github.com/tzarsmango/jsfP2Map) and the final look and feel of this applicaiton is as follows:
+
+![p2map JSF application](https://i0.wp.com/www.koders.co/wp-content/uploads/2017/06/P2Map.png?zoom=2&fit=1906%2C1162)
 
